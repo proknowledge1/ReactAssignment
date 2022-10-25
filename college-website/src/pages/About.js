@@ -1,0 +1,37 @@
+const About=()=>{
+    
+
+        return(
+            <div className="container overflow-hidden text-center" style={{marginTop: '150px'}}>
+        <br />
+        <div className="row gy-5">
+          <div className="col-3">
+            <div className="p-3 border bg-dark" style={{margin:0}} align="left">
+              <p><a style={{color: 'white', marginTop: '20', textDecoration: 'none'}} href="#history">History</a></p>
+              <p><a style={{color: 'white', textDecoration: 'none'}} href="#vandm">Vision &amp; Mission </a></p>
+              <p><a style={{color: 'white', textDecoration: 'none'}} href="#distinct">Institutional Distinctiveness</a></p>
+              <p><a style={{color: 'white', marginBottom: '20', textDecoration: 'none'}} href="#bestprac">Best Practices</a></p>
+            </div>
+          </div>
+          <div className="col-9">
+            <div className="p-3 border bg-light">
+              <h2 id="history">History</h2>
+              <p>Lorem, ipsum do  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus soluta asperiores modi unde ipsum quisquam fugit accusamus doloribus et temporibus, veniam ab veritatis quidem eius, debitis ratione error, distinctio tenetur? lor sit ad, mollitia i Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam laboriosam placeat aspernatur ullam labore rem velit consectetur exercitationem possimus numquam! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas eligendi tenetur tempore recusandae repellat fugit suscipit dicta facere molestiae, accusamus quibusdam amet mollitia quae expedita dolore incidunt quasi placeat vel totam saepe numquam error quo. Illum consequuntur dolor natus culpa.</p>
+              <br /><hr /><br />
+              <h2 id="vandm">Vision &amp; Mission</h2>
+              <p>Lorem, ipsum dolor sit a, eius, explicabo obcaecati ea.ore illo rem minima esse nobis? Quisquam, aliquid! Omnis velit eveniet inventore cumque distinctio, nihil sapiente saepe molestiae. Possimus amet ex veniam modi eius, mollitia autem nobis nemo quasi sit ipsam consectetur. Nulla at ratione voluptatem architecto. Saepe veritatis hic ipsum reiciendis deserunt laboriosam quae laborum nisi, corporis, consectetur obcaecati nobis odio est qui provident voluptates eveniet temporibus alias, soluta animi. Voluptatum facilis, molestias blanditiis, tenetur quo asperiores sint hic et, nostrum ab ducimus voluptates harum quos molestiae vel aut iure dignissimos vitae nam? Quos soluta commodi dolorum dolore beatae possimus odio doloribus nemo inventore, nihil repellat, enim eius quas labore fuga reprehenderit architecto sed est quis accusamus tempora laudantium placeat. Ex similique temporibus nobis. Repellendus architecto consequatur quisquam. Animi quos sunt molestias quia id debitis aliquam dolorem libero, quidem labore itaque, reprehenderit, expedita unde minima at rem sed suscipit consectetur incidunt assumenda possimus dicta officia ab? Harum dignissimos distinctio nisi magnam quos inventore blanditiis aliquid ab recusandae, nesciunt, iusto explicabo ut dolor deleniti voluptatum pariatur. Suscipit inventore, velit, dolorum placeat quaerat quam, et nam rem voluptatum earum molestias aut at ducimus laudantium sapiente ab totam perferendis ad unde quos repellat quia. Accusamus dolorum, laboriosam architecto veritatis, eius, quos nulla quasi dignissimos doloremque exercitationem animi incidunt est aut quis. Non voluptas in ipsa ratione odio consectetur harum accusamus exercitationem libero excepturi sunt fuga asperiores tenetur necessitatibus corporis quam doloremque reprehenderit voluptates cum, pariatur explicabo minima, expedita, dolorem suscipit. Dolores optio vero repellat quam enim nemo delectus tempora, praesentium, atque cum fugiat itaque, alias laudantium voluptatibus consequatur maxime unde corporis amet eaque sit autem magnam nobis vitae? Molestiae veniam ipsam esse dolorem commodi, harum aut quod itaque atque eum labore aperiam obcaecati quo explicabo? Dolore, voluptate sit. Ipsa fugit inventore dignissimos quod harum quo debitis sunt nemo voluptas voluptate, rerum aut nulla veniam laudantium aperiam iure libero eaque nobis consectetur exercitationem voluptatem. Distinctio illum consequuntur minima temporibus suscipit debitis provident in numquam ipsum quo? Facilis at recusandae sunt illum. Iste molestias harum facere quo eaque praesentium sapiente exercitationem deleniti debitis dolorem fugit itaque perferendis excepturi quae consequatur, maiores fuga nobis laudantium necessitatibus nesciunt commodi. Est tenetur nam eius nobis et sit voluptate recusandae nesciunt sunt quisquam debitis odit, ab minima quibusdam totam reiciendis modi eaque distinctio quasi veniam, deleniti iste? Adipisci, officiis. Quaerat id nemo eos blanditiis omnis delectus, repellat qui, rerum molestiae corporis commodi, doloribus dolores quos sed assumenda autem vitae sit fugiat? Ab debitis esse expedita beatae dolorum perspiciatis est velit laudantium, voluptatem explicabo! Alias nesciunt magnam blanditiis, hic eveniet quod esse, veniam expedita, eum quasi qui natus facere harum magni totam est dignissimos. Quos, asperiores.</p>
+              <br /><hr /><br />
+              <h2 id="distinct">Institutional Distinctiveness</h2>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga error ratione quia iure pariatur, adipisci nulla dolore est. Nesciunt cupiditate aut perferendis obcaecati dolorem recusandae in ea, quibusdam ad, illum incidunt debitis id asperiores eligendi! Animi, rerum tempore ducimus libero necessitatibus voluptate repellat sint quas quia, expedita doloremque et aspernatur nemo officiis? Ea deleniti tenetur odio sunt, quae ex impedit unde recusandae. Culpa suscipit quia consequatur quibusdam ab blanditiis quos officiis vel harum modi reprehenderit sit delectus error, perferendis, consectetur voluptatem? Qui facere laborum dicta fuga voluptates laboriosam vero quam deleniti, unde ratione officia, voluptatem at iusto exercitationem adipisci, earum aliquam corporis autem! Dolore sapiente exercitationem nesciunt corrupti beatae porro voluptatum maiores laborum? Magni ratione soluta quas, aut voluptates minus ab doloremque voluptatibus nam sit alias error, accusamus dolorum. Fuga suscipit omnis quisquam culpa autem voluptates. Consequatur doloribus recusandae culpa nisi obcaecati deserunt temporibus, inventore, ratione doloremque laborum numquam. Expedita. </p>
+              <br /><hr /><br />
+              <h2 id="bestprac">Best Practices</h2>
+              <p>Lorem, ipsum dolo adipisci Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum repellat tempore nisi aperiam! Tempore ipsam consectetur dolorum sit ipsa ratione, commodi repellat iusto culpa ullam perferendis officia! Rem necessitatibus maiores adipisci repellat alias, molestiae labore architecto quidem assumenda et non doloremque? Dolorum voluptatum consectetur, voluptatem nisi, incidunt iure commodi provident nemo aliquam repudiandae animi iste ab veritatis. Perferendis enim ullam dolore repellendus officia natus voluptatem necessitatibus minima praesentium! Unde error odio illo eveniet impedit eius optio, minus provident sed, aut possimus soluta dignissimos cum reiciendis voluptates ipsum nulla dolores asperiores blanditiis deleniti facere fugit sint cumque animi. Inventore, blanditiis deserunt. bea</p>
+            </div>
+          </div>
+        </div>
+        <br />
+      </div>
+        )
+    
+}
+export default About;
